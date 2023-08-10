@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main(void)
-/*Size of Function*/
+/*
+ * main - main block
+ * Return: 0
+ */
 {
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
 	printf("Size of an int: %i byte(s)\n", sizeof(int));
