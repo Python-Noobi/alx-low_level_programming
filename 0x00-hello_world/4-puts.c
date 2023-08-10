@@ -1,7 +1,11 @@
 #include <stdio.h>
+/*
+ * This is the main block
+ * Return: 0
+ */
 int main(void)
-/*This is the main function. puts Function*/
 {
+/*This is the main function. puts Function*/
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
