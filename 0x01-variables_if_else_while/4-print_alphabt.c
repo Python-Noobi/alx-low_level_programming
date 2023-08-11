@@ -1,23 +1,21 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Get a random number and check its last digit, compare it with 5
+ * Description: print all the letters except e && q
  * Return: 0
  */
 int main(void)
 {
-	char c = 'a';
-
-	while (c <= 'z')
-	{
-		if (c != 'e' && c != 'q')
-		{
-			putchar(c);
-		}
-		c++;
+	char c;
+	
+	for (c = 'a'; c <= 'z'; c++) {
+	    if (c != 'e' && c != 'q') {
+  		putchar(c);
+	    }
 	}
-
+	
 	putchar('\n');
 	return (0);
+
 }
 
