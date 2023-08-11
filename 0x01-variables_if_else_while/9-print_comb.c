@@ -8,15 +8,15 @@
  */
 int main(void)
 {
-for (int num = 0; num <= 9; num++) {
-  putchar(num + 48);
-  if (num != 9) {
-    putchar(',');
-    putchar(' ');
+  for (int num = 0; num <= 9; num++) {
+    putchar(num + 48);
+    if (num != 9) {
+      putchar(',');
+      putchar(' ');
+    }
   }
-}
-
-putchar("\n");
-
-return (0);
+  
+  putchar("\n");
+  
+  return (0);
 }
