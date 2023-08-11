@@ -7,14 +7,10 @@
  */
 int main(void)
 {
-	int c = 0;
-
-	while (c < 10)
-	{
-		putchar(48 + c);
-		c++;
+	for (int num = 0; num < 10; num++) {
+	  putchar(48 + num);
 	}
-
-	putchar('\n');
+	
+	printf("\n");
 	return (0);
 }
