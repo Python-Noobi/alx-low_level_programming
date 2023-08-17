@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - check for a digit
+ * print_diagonal - check for a digit --
  * @n : number of \\ to be printed
  * Return:void
  */
