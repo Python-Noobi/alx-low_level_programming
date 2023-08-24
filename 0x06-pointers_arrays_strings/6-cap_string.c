@@ -3,12 +3,12 @@
 /**
  * *cap_string - capitalize words
  * @str: pointer
- * Return: capitalzied string -- 
+ * Return: capitalzied string --  ,\t;\n; .!?\"(){}
 */
 
 char *cap_string(char *str)
 {
-	char sep[] = ",\t;\n; .!?\"(){}";
+	char sep[] = " \t\n,;.!?\"(){}";
 	int flag, i, ii;
 
 	for (i = 0; str[i] != '\0'; i++)
