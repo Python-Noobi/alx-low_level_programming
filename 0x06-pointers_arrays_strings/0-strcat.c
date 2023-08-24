@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * *_strcat - concatenates two strings
- * @dest: pointer destination
+ * @dest: pointer destination --
  * @src: pointer source
  * Return: void
 */
