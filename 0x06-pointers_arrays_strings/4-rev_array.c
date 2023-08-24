@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * reverse_array - reverse a int array
- * @a: pointer
+ * @a: pointer -- 
  * @n: array length
  * Return: void
 */
