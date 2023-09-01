@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 /**
- * main - prints the minimum number of coins
+ * main - prints the minimum number of coins-
  * to make change for an amount of money
  * @argc: n args
  * @argv: arr args
