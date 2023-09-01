@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - multiplies two numbers
+ * main - multiplies two numbers-
  * @argc: n args
  * @argv: arr args
  * Return: 0
