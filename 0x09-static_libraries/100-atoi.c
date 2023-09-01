@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _atoi - int
+ * _atoi - int-
  * @s: pointer
  * Return: int.
  */
