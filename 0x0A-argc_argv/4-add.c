@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 /**
- * main - adds positive numbers
+ * main - adds positive numbers-
  * @argc: n args
  * @argv: arr args
  * Return: 0
