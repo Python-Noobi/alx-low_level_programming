@@ -1,7 +1,7 @@
 #include <stdlib.h>
 
 /**
- * _strdup - copy
+ * _strdup - copy -
  * @str: pointer to string
  * Return: pointer
  */
