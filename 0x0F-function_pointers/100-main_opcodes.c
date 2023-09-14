@@ -1,7 +1,7 @@
 #include "function_pointers.h"
 
 /**
- *main -  prints the opcodes of its own main function.
+ *main -  prints the opcodes of its own main function.-
  *@argc: integer value.
  *@argv: character value.
  *
