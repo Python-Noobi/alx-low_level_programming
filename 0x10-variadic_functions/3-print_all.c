@@ -12,7 +12,7 @@ void print_int(va_list list)
 }
 
 /**
- * print_float - prints float
+ * print_float - prints float-
  * @list: arguments from print_all
  */
 void print_float(va_list list)
