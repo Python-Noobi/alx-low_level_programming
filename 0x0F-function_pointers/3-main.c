@@ -3,7 +3,7 @@
 #include "3-calc.h"
 
 /**
- * main - main file
+ * main - main file-
  * @argc: number of lines arguments
  * @argv: array of elements
  * Return: 0
