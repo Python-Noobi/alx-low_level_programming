@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * sum_listint - Sum all of the data (n) in a list.
+ * sum_listint - Sum all of the data (n) in a list.-
  * @head: Address of the first node of the list.
  * Return: Integer.
  **/
